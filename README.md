@@ -11,10 +11,10 @@
 ---
 
 **Presentado por:**  
-Jairo Alonso Osorio Cruz
-Kevin Manuel Reyes Paez 
-Jesus Lopez Mercado
-Brayan Argumendo Ceballos
+- Jairo Alonso Osorio Cruz
+- Kevin Manuel Reyes Paez 
+- Jesus Lopez Mercado
+- Brayan Argumendo Ceballos
 
 
 **Docente:**  
@@ -384,3 +384,4 @@ Vida MRR. (2022). *CÓMO FUNCIONA LA RECURSIVIDAD*.
 ---
 
 *Documento elaborado como parte del desarrollo académico de la Unidad 2 del curso Estructuras de Datos, Programa de Ingeniería de Software, Universidad de Cartagena.*
+
